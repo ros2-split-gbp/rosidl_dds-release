@@ -1,3 +1,26 @@
+## rosidl_dds (foxy) - 0.7.1-1
+
+The packages in the `rosidl_dds` repository were released into the `foxy` distro by running `/usr/bin/bloom-release -r foxy rosidl_dds` on `Fri, 24 Apr 2020 23:22:02 -0000`
+
+The `rosidl_generator_dds_idl` package was released.
+
+Version of package(s) in repository `rosidl_dds`:
+
+- upstream repository: https://github.com/ros2/rosidl_dds.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.17`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_dds (eloquent) - 0.7.1-1
 
 The packages in the `rosidl_dds` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release -r eloquent rosidl_dds` on `Tue, 24 Sep 2019 19:27:21 -0000`
