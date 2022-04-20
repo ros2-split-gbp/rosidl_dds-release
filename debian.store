@@ -1,1 +1,1 @@
-{"trim": "", "base": "5833d40", "trimbase": "", "parent": "debian/rolling/rosidl_generator_dds_idl", "previous": "4017bbc"}
+{"base": "7897f01", "parent": "debian/humble/rosidl_generator_dds_idl", "previous": "d22f9e0", "trim": "", "trimbase": ""}
